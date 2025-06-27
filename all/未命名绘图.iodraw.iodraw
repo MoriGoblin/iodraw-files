@@ -122,9 +122,6 @@
         <mxCell id="dNti8-de1BysN92g56xj-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;段选信号生成&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;digit_sel[7:0]&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="510" y="340" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dNti8-de1BysN92g56xj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="dNti8-de1BysN92g56xj-43" target="dNti8-de1BysN92g56xj-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dNti8-de1BysN92g56xj-43" value="&lt;font face=&quot;Times New Roman&quot;&gt;段选信号生成&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;digit_sel[7:0]&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="510" y="400" width="150" height="100" as="geometry" />
         </mxCell>
