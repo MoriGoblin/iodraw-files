@@ -108,7 +108,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNti8-de1BysN92g56xj-35" value="&lt;font face=&quot;Times New Roman&quot;&gt;扫描计数器&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;scan_cnt[2:0]&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="340" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dNti8-de1BysN92g56xj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;endFill=0;" edge="1" parent="1" source="dNti8-de1BysN92g56xj-37" target="dNti8-de1BysN92g56xj-38">
           <mxGeometry relative="1" as="geometry" />
@@ -123,7 +123,7 @@
           <mxGeometry x="540" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dNti8-de1BysN92g56xj-43" value="&lt;font face=&quot;Times New Roman&quot;&gt;段选信号生成&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;digit_sel[7:0]&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="540" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="540" y="400" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
