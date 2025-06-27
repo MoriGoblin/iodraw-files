@@ -119,6 +119,9 @@
         <mxCell id="dNti8-de1BysN92g56xj-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;seg_decoder&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;BCD译码器&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" vertex="1" parent="1">
           <mxGeometry x="280" y="460" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dNti8-de1BysN92g56xj-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;扫描计数器&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;scan_cnt[2:0]&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
