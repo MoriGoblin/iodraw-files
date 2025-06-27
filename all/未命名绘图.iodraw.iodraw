@@ -56,7 +56,7 @@
         <mxCell id="dNti8-de1BysN92g56xj-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;dir_ctrl&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="180" y="160" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dNti8-de1BysN92g56xj-17" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="dNti8-de1BysN92g56xj-17" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
